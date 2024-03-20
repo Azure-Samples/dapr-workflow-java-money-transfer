@@ -65,7 +65,7 @@ Alternatively, you can use DevContainers and Visual Studio Code for local develo
 
 Follow below steps:
 
-- `git clone https://github.com/ISE-Neutrino/dapr-workflow-java-money-transfer.git`
+- `git clone https://github.com/Azure-Samples/dapr-workflow-java-money-transfer.git`
 - `cd dapr-workflow-java-money-transfer`
 - Use Make commands to automate the build and deployment process. You can run the following command to see the available commands:
 
